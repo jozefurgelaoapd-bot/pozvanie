@@ -13,20 +13,11 @@ const Home = ({ className = '' }) => (
                             Radka, mám na teba jednu dôležitú otázku.. ❤️
                         </h1>
                         <p className="hero_text-description">
-                            don’t worry I am here to help you. enter your valentines name and generate a propose link.
+                            Prosím, klikni na tlačidlo nižšie. Sľubujem, že to stojí za to 😊
                         </p>
 
                         <ProposeModal />
-                        <p className="hero_credit">
-                            developed by{' '}
-                            <a
-                                href="https://tonmoydeb.com"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                @tonmoydeb
-                            </a>
-                        </p>
+                        
                     </div>
                 </Col>
                 <Col md={5} className="hero_media-wrapper">

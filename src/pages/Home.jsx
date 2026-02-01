@@ -10,7 +10,7 @@ const Home = ({ className = '' }) => (
                 <Col md={7} lg={6} className="hero_text-wrapper">
                     <div className="hero_text">
                         <h1 className="hero_text-title mb-2">
-                            Afraid To <font className="text-danger">Propose</font> Someone?
+                            Radka, mám na teba jednu dôležitú otázku.. ❤️
                         </h1>
                         <p className="hero_text-description">
                             don’t worry I am here to help you. enter your valentines name and generate a propose link.
